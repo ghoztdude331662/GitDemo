@@ -1,0 +1,26 @@
+digraph "UML Class Diagram" {
+	Customer [label="Customer
+------------------------
++ CustomerID: int
++ CustomerName: string
++ CustomerType: string
++ DateOfFinding: date
+------------------------
++ addCustomer(): void
++ editCustomer(): void
++ searchCustomer(): void" shape=record]
+	CustomerDetails [label="CustomerDetails
+------------------------
++ Address_1: string
++ Address_2: string
++ City: string
++ PostalCode: string
++ Phone: string
++ Fax: string
++ Website: string
++ Location: string[]
+------------------------
++ addLocation(): void
++ updateLocation(): void" shape=record]
+	Customer -> CustomerDetails [label="1..*" arrowhead=crow]
+}

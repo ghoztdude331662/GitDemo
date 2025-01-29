@@ -1,0 +1,16 @@
+2025-01-10 22:59:20,234 : INFO : test_logging : used for info
+2025-01-10 22:59:20,234 : WARNING : test_logging : used for alerts
+2025-01-10 22:59:20,235 : ERROR : test_logging : used for error
+2025-01-10 22:59:20,235 : CRITICAL : test_logging : used for critical
+2025-01-10 23:30:05,528 : INFO : test_logging : used for info
+2025-01-10 23:30:05,529 : WARNING : test_logging : used for alerts
+2025-01-10 23:30:05,529 : ERROR : test_logging : used for error
+2025-01-10 23:30:05,529 : CRITICAL : test_logging : used for critical
+2025-01-10 23:31:39,745 : INFO : test_logging : used for info
+2025-01-10 23:31:39,745 : WARNING : test_logging : used for alerts
+2025-01-10 23:31:39,745 : ERROR : test_logging : used for error
+2025-01-10 23:31:39,746 : CRITICAL : test_logging : used for critical
+2025-01-10 23:33:31,187 : INFO : test_logging : used for info
+2025-01-10 23:33:31,188 : WARNING : test_logging : used for alerts
+2025-01-10 23:33:31,188 : ERROR : test_logging : used for error
+2025-01-10 23:33:31,188 : CRITICAL : test_logging : used for critical
