@@ -21,3 +21,5 @@ driver.find_element(By.XPATH,"//button[text()='Apply']").click()
 
 x=driver.find_element(By.CSS_SELECTOR,".promoInfo").text
 assert x=="Code applied ..!"
+
+#git branch
