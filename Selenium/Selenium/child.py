@@ -16,7 +16,11 @@ if __name__ == '__main__':
 
 #using for git
 #second
+<<<<<<< HEAD
 #git branch
 #Again
 #git last again
 
+=======
+#git branch 123
+>>>>>>> develop
