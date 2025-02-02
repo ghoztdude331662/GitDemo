@@ -14,19 +14,3 @@ print(obj3.getchildsum())
 if __name__ == '__main__':
     main()
 
-#using for git
-#second
-<<<<<<< HEAD
-#git branch
-#Again
-<<<<<<< HEAD
-#git last again
-
-=======
-#git branch 123
->>>>>>> develop
-=======
-=======
-#git branch 123
->>>>>>> e381db368d7b9c16331c0ede523ab7195214f189
->>>>>>> develop
