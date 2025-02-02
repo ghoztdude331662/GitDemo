@@ -16,9 +16,7 @@ if __name__ == '__main__':
 
 #using for git
 #second
-<<<<<<< HEAD
 #git branch
 #Again
-=======
 #git branch 123
->>>>>>> e381db368d7b9c16331c0ede523ab7195214f189
+#dsdsccsadcda
